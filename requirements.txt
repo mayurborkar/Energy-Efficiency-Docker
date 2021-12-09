@@ -2,7 +2,6 @@ certifi==2019.11.28
 click==7.0
 colorama==0.4.4
 dataclasses==0.8
-energy-efficiency==0.0.3
 flask==2.0.1
 flask-cors==3.0.10
 icc_rt==2019.0.0
