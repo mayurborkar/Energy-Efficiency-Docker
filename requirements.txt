@@ -1,6 +1,5 @@
-ca-certificates==2021.10.26
-certifi==2021.5.30
-click==8.0.1
+certifi==2019.11.28
+click==7.0
 colorama==0.4.4
 dataclasses==0.8
 energy-efficiency==0.0.3
